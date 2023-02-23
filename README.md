@@ -18,6 +18,3 @@
 
 ## Contact (projects / job offer or just say hello I don't mind :D)
 [![](https://img.shields.io/badge/email%20me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:mathieu-rossi.pro@proton.me)
-
-
-[![](https://visitcount.itsvg.in/api?id=Mind-thatsall&icon=0&color=0)](https://visitcount.itsvg.in)
