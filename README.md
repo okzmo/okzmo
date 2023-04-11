@@ -5,8 +5,8 @@
 </div>
 <br />
 
-- 💻 Currently working on a [manhwa reader](https://github.com/Mind-thatsall/manhwa-web)
-- 🧠 Learning Golang, check [this project](https://github.com/Mind-thatsall/manhwa-crawler-go) I made with Go
+- 💻 Currently working on a [e-commerce template](https://github.com/Mind-thatsall/e-commerce-template)
+- 🧠 Looking into Server components and NextJS 13 App Directory (also solid start)
 - 📝 Discover my [resume](https://drive.google.com/file/d/1Ur1srj7bj-2vUom15qbb-QFiKr2B5bJ0/view?usp=share_link)
 
 ## Tech I'm using/I've used
