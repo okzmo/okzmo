@@ -6,7 +6,7 @@
 <br />
 
 - 💻 Finished a [e-commerce template](https://github.com/Mind-thatsall/e-commerce-react)
-- 🧠 Looking into Tauri to create a desktop app and the bun runtime
+- 🧠 Looking into Tauri to create a desktop app, and the bun runtime
 - 📝 Discover my [resume](https://drive.google.com/file/d/1Ur1srj7bj-2vUom15qbb-QFiKr2B5bJ0/view?usp=share_link)
 
 ## Tech I'm using/I've used
