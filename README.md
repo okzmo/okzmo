@@ -1,5 +1,3 @@
-![](https://media.discordapp.net/attachments/747211511583473728/1078433079703650304/github_banner.png)
-
 <div align="center">
 <a href="https://www.mathross.dev/">Portfolio</a>&nbsp;-&nbsp;<a href="https://www.linkedin.com/in/mathieu-rossi-dev/">LinkedIn</a>
 </div>
