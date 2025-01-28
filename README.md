@@ -1,4 +1,4 @@
-<img src="./assets/github_banner.gif" alt="" style="width: 100vw; height: auto;" />
+<img src="./assets/banner.gif" alt="" style="width: 100vw; height: auto;" />
 
 # Hey there! 👋
 
