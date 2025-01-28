@@ -1,25 +1,27 @@
-<img src="./assets/cozy_night.gif" alt="" />
+<img src="./assets/github_banner.gif" alt="" style="width: 100vw; height: auto;" />
 
-# Hey
+# Hey there! 👋
 
-I'm Mathieu, you can call me math or okzmo. I don't qualify myself as a SWE (because I'm not an engineer duh) but I don't think I fall short when it comes to actually doing the work. I've mostly been learning by myself for the past 2-3 years and I've stayed in the web sphere for for 2/3 of this time. I went back and forth between the front-end and backend in different languages like Go, Rust or JS/TS with node, deno etc...
+I'm Mathieu (math or okzmo works too). While I may not qualify myself as a SWE (because I'm not an engineer clearly), I don't think I fall short when it comes to actually doing the work whatever it can be. I'm mostly self-taught who's been learning as much as I can for the past 2-3 years, with a focus on web development since that's the first field I encountered, but I try to get involved in everything I can reasonably understand. My journey has taken me through the realms of both frontend and backend for now, working with Go, Rust, and JS/TS ecosystems and runtimes (Node.js, Deno, you name it).
 
-## What you doing these days?
+## What's keeping you busy these days?
 
-Glad you ask! (I'm schizophreniac)
+Glad you ask! (My inner voice insisted I answer this question)
 
-- Moving out of the web sphere when it comes to learning, I don't want to be qualified as "the guy that only knows web" so I'm looking into low level stuff but I've been really interested in networking, that's the only domain (outside of web) that caught my interest and making UI for video games too but I didn't get to that yet.
-- Working on my side project **NOSYNC** (not available yet) which is basically some kind of mymind but with the UI I want and the features I want.
-- Somehow get better at math because it's starting to get alarming how bad I can be sometimes.
+- Breaking free from the "web-only developer" stereotype by diving into low-level programming. Networking has particularly caught my eye - it's the first non-web domain that's truly grabbed my attention. Also eyeing game UI development (soon™).
+- Crafting NOSYNC, my take on a personal knowledge management system (think mymind, but with my own twist on UI and features).
+- Attempting to befriend mathematics again (I actually scare myself with how long I take to solve simple math problems from time to time).
 
-## What are you future plans?
+## What's next on the horizon?
 
-Glad you ask! (I need to stop that)
+Glad you ask! (Promise this is the last time I talk to myself)
 
-- Getting out of my shell and maybe try to get involved in some open source projects. Not for the "it looks good on a resume" but to see what it feels/looks like to work on a "big" project with a team. Working on my soft-skills basically.
+- Stepping out of my comfort zone to contribute to open source projects. Not for the resume bling, but to experience what it's like working on larger-scale projects with diverse teams. You could say I'm on a mission to level up my soft-skills.
+- Building cool stuff that matters (or at least entertains me).
+- Continuously learning and growing (that's the most generic sentence I've ever wrote).
 
 ### How can I contact you?
 
 Gla...
 
-- Linkedin
+- LinkedIn mostly since I only have twitter to look at cool design and discord.
