@@ -2,7 +2,7 @@
 
 # Hey there! 👋
 
-I'm Mathieu (math or okzmo works too). While I may not qualify myself as a SWE (because I'm not an engineer clearly), I don't think I fall short when it comes to actually doing the work whatever it can be. I'm mostly self-taught who's been learning as much as I can for the past 2-3 years, with a focus on web development since that's the first field I encountered, but I try to get involved in everything I can reasonably understand. My journey has taken me through the realms of both frontend and backend for now, working with Go, Rust, and JS/TS ecosystems and runtimes (Node.js, Deno, you name it).
+I'm Mathieu (math or okzmo works too). While I may not qualify myself as a SWE (because I'm not an engineer clearly), I don't think I fall short when it comes to actually doing the work. I'm mostly self-taught and I've been learning as much as I can for the past 2-3 years, with a focus on web development since that's the first field I encountered, but I try to get involved in everything I can reasonably understand. My journey has taken me through the realms of both frontend and backend for now, working with Go, Rust, and the JS/TS ecosystems and its runtimes (Node.js, Deno, you name it).
 
 ## What's keeping you busy these days?
 
