@@ -24,4 +24,4 @@ Glad you ask! (Promise this is the last time I talk to myself)
 
 Gla...
 
-- LinkedIn mostly since I only have twitter to look at cool design and discord.
+- [LinkedIn](www.linkedin.com/in/mathieu-rossi-dev) mostly since I only have twitter to look at cool design and discord.
