@@ -6,7 +6,7 @@ While I can't qualify as a SWE (no diploma), I don't think I fall short when it 
 
 ## What's keeping you busy these days?
 
-- Breaking free from the "web-only developer" stereotype by diving in other fields. Networking has particularly caught my eye - it's the first non-web domain that's truly grabbed my attention. Also eyeing game UI development (soon™).
+- Breaking free from the "web-only developer" stereotype by diving in other fields. Networking has particularly caught my eye - it's the first non-web domain which truly grabbed my attention. Also eyeing game UI development (soon™).
 - Crafting NOSYNC, my take on a personal knowledge management system (think mymind, but with my own twist on UI and features).
 
 ## What's next on the horizon?
