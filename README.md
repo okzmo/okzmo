@@ -2,7 +2,7 @@
 
 # Hey there! I'm Mathieu "okzmo" Rossi. 
 
-While I can't qualify as a SWE (no diploma), I don't think I fall short when it comes to actually doing the work. I'm mostly self-taught and I've been learning as much as I can for the past 2-3 years, with a focus on web development since that's the first field I ever encountered. Now I try to get involved in other fields I can reasonably understand and I'm mostly having fun.
+I'm mostly self-taught and I've been learning as much as I can for the past 2-3 years, with a focus on web development since that's the first field I ever encountered. Now I try to get involved in other fields I can reasonably understand and I'm mostly having fun with random ideas that comes to mind.
 
 ## What's keeping you busy these days?
 
