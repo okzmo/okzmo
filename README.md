@@ -7,7 +7,7 @@ I'm mostly self-taught and I've been learning as much as I can for the past 2-3 
 ## What's keeping you busy these days?
 
 - Breaking free from the "web-only developer" stereotype by diving in other fields. Networking has particularly caught my eye - it's the first non-web domain which truly grabbed my attention. Also eyeing game UI development (soon™).
-- Crafting NOSYNC, my take on a personal knowledge management system (think mymind, but with my own twist on UI and features).
+- Crafting [nosync](https://nosync.app), my take on a personal knowledge management system (think mymind, but with my own twist on UI and features).
 
 ## What's next on the horizon?
 
