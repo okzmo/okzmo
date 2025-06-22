@@ -7,7 +7,7 @@ What I did until now: (TL;DR: Lot of dead projects but plenty of learning.)
 - Crafting [nosync](https://nosync.app), my take on a personal knowledge management system (think mymind, but with my own twist on UI and features).
 - [kyono](https://kyono.app), A linktree but with a new UI.
 - An image optimization service in Go for a web3 company.
-- My take on a new way to communicate with "kyob". It's not in prod yet but hopefully some day!
+- My take on a new way to communicate with "kyob", just a prototype.
 
 What's next:
 Anything really, I'm kind of a baby in this field so I just go and try stuff that interest me. I'm thinking of working on some kind of AI assistant and go try new things! 
