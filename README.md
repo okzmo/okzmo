@@ -10,7 +10,7 @@ What I did until now: (TL;DR: Lot of dead projects but plenty of learning.)
 - My take on a new way to communicate with "kyob", just a prototype.
 
 What's next:
-Anything really, I'm kind of a baby in this field so I just go and try stuff that interest me. I'm thinking of working on some kind of AI assistant and go try new things! 
+Anything really, I like to build stuff, tools, apps, as long as it pick my interest I'm down.
 
 links:
 - [LinkedIn](https://www.linkedin.com/in/mathieu-rossi-dev).
