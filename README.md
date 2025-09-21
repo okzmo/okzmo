@@ -14,4 +14,4 @@ Anything really, I like to build stuff, tools, apps, as long as it pick my inter
 
 links:
 - my [LinkedIn](https://www.linkedin.com/in/mathieu-rossi-dev)
-- my [Kyono](https://mathii.eu)
+- my [Kyono](https://links.mathii.eu)
