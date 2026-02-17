@@ -6,4 +6,4 @@
 
 ## Contact
 - Twitter: [@okzmoo](https://x.com/okzmoo)
-- Linkedin: https://www.linkedin.com/in/mathieu-rossi-dev/
+- Email: hey@mathii.eu
